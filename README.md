@@ -38,6 +38,10 @@ Clone the repository.
 Open Titanic_Data_Exploration.ipynb in a Jupyter notebook environment.
 Run the cells in sequence to view the analysis.
 
+Author
+[UDEH SHEDRACK IFEANYI]
+shedrackudeh@yahoo.com
+
 Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
